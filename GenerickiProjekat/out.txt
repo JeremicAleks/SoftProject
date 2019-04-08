@@ -1,0 +1,12 @@
+RA171/2015 Aleksandar Jeremic
+file	sum
+video-0.avi	-37
+video-1.avi	-2
+video-2.avi	-2
+video-3.avi	-24
+video-4.avi	-21
+video-5.avi	15
+video-6.avi	-63
+video-7.avi	8
+video-8.avi	-16
+video-9.avi	24
